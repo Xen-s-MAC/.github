@@ -1,42 +1,44 @@
 # Xen's MAC
 
-Private repository for organization-level information, documentation, and shared GitHub configuration.
+Welcome to the official GitHub organization for Xen's MAC.
 
-## About The Organization
+## About
 
-Xen's MAC is the central GitHub organization space for managing shared standards, internal resources, and repository-wide documentation.
+Xen's MAC is the central space for our repositories, shared resources, and ongoing development work.
 
-This repository can be used to maintain:
+We use this organization to manage:
 
-- Organization profile and internal documentation
-- Shared templates and contribution guidelines
-- Workflow and automation references
-- Team conventions and operational notes
+- Core projects and supporting repositories
+- Shared documentation and standards
+- Automation, workflows, and collaboration resources
 
-## What You Will Find Here
+## Focus Areas
 
-- Organization information and overview
-- Shared files used across repositories
-- Private internal notes for maintainers
+Update this section with the work your organization actually does:
 
-## Repository Purpose
+- Product or platform development
+- Internal tools and automation
+- Documentation and operational resources
 
-The `.github-private` repository is intended to store organization-related content that should remain private, including documentation, internal standards, and supporting files for maintainers.
+## Featured Projects
 
-## Organization Details
+Add links to your main repositories here:
 
-Update this section with your actual information:
+- `repo-name-1` - short description
+- `repo-name-2` - short description
+- `repo-name-3` - short description
 
-- Organization name: Xen's MAC
-- Purpose: Add a short description of what the organization does
-- Main projects: List the main repositories or products
-- Team: Add maintainers, contributors, or departments
-- Contact: Add internal or public contact details
+## Team
 
-## Maintainers
+Add maintainers, teams, or contributor groups here.
 
-Add the list of organization maintainers here.
+## Contact
+
+Add the best way to reach your organization:
+
+- Website: `https://example.com`
+- Email: `team@example.com`
 
 ## Notes
 
-Keep this README updated so members can quickly understand the purpose of the organization and this repository.
+This profile README appears on the GitHub organization page. Keep it short, accurate, and current.
